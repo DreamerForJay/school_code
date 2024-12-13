@@ -1,0 +1,10 @@
+C:\Users\clyan\source\repos\s1121454_hw1\s1121454_hw1\obj\Debug\s1121454_hw1.csproj.AssemblyReference.cache
+C:\Users\clyan\source\repos\s1121454_hw1\s1121454_hw1\obj\Debug\s1121454_hw1.Properties.Resources.resources
+C:\Users\clyan\source\repos\s1121454_hw1\s1121454_hw1\obj\Debug\s1121454_hw1.s1121454.resources
+C:\Users\clyan\source\repos\s1121454_hw1\s1121454_hw1\obj\Debug\s1121454_hw1.csproj.GenerateResource.cache
+C:\Users\clyan\source\repos\s1121454_hw1\s1121454_hw1\obj\Debug\s1121454_hw1.csproj.CoreCompileInputs.cache
+C:\Users\clyan\source\repos\s1121454_hw1\s1121454_hw1\bin\Debug\s1121454_hw1.exe.config
+C:\Users\clyan\source\repos\s1121454_hw1\s1121454_hw1\bin\Debug\s1121454_hw1.exe
+C:\Users\clyan\source\repos\s1121454_hw1\s1121454_hw1\bin\Debug\s1121454_hw1.pdb
+C:\Users\clyan\source\repos\s1121454_hw1\s1121454_hw1\obj\Debug\s1121454_hw1.exe
+C:\Users\clyan\source\repos\s1121454_hw1\s1121454_hw1\obj\Debug\s1121454_hw1.pdb

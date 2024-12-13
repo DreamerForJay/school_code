@@ -1,0 +1,4 @@
+C:\Users\clyan\source\repos\HW2\HW2\obj\Debug\net8.0\HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clyan\source\repos\HW2\HW2\obj\Debug\net8.0\HW2.AssemblyInfoInputs.cache
+C:\Users\clyan\source\repos\HW2\HW2\obj\Debug\net8.0\HW2.AssemblyInfo.cs
+C:\Users\clyan\source\repos\HW2\HW2\obj\Debug\net8.0\HW2.csproj.CoreCompileInputs.cache
