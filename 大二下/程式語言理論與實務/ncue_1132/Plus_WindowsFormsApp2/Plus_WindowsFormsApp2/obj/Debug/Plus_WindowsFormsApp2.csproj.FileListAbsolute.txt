@@ -1,0 +1,10 @@
+C:\Users\clyan\source\repos\ncue_1132\Plus_WindowsFormsApp2\Plus_WindowsFormsApp2\bin\Debug\Plus_WindowsFormsApp2.exe.config
+C:\Users\clyan\source\repos\ncue_1132\Plus_WindowsFormsApp2\Plus_WindowsFormsApp2\bin\Debug\Plus_WindowsFormsApp2.exe
+C:\Users\clyan\source\repos\ncue_1132\Plus_WindowsFormsApp2\Plus_WindowsFormsApp2\bin\Debug\Plus_WindowsFormsApp2.pdb
+C:\Users\clyan\source\repos\ncue_1132\Plus_WindowsFormsApp2\Plus_WindowsFormsApp2\obj\Debug\Plus_WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\clyan\source\repos\ncue_1132\Plus_WindowsFormsApp2\Plus_WindowsFormsApp2\obj\Debug\Plus_WindowsFormsApp2.Form1.resources
+C:\Users\clyan\source\repos\ncue_1132\Plus_WindowsFormsApp2\Plus_WindowsFormsApp2\obj\Debug\Plus_WindowsFormsApp2.Properties.Resources.resources
+C:\Users\clyan\source\repos\ncue_1132\Plus_WindowsFormsApp2\Plus_WindowsFormsApp2\obj\Debug\Plus_WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\clyan\source\repos\ncue_1132\Plus_WindowsFormsApp2\Plus_WindowsFormsApp2\obj\Debug\Plus_WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\clyan\source\repos\ncue_1132\Plus_WindowsFormsApp2\Plus_WindowsFormsApp2\obj\Debug\Plus_WindowsFormsApp2.exe
+C:\Users\clyan\source\repos\ncue_1132\Plus_WindowsFormsApp2\Plus_WindowsFormsApp2\obj\Debug\Plus_WindowsFormsApp2.pdb

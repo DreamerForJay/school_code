@@ -1,0 +1,10 @@
+C:\Users\clyan\source\repos\ncue_1132\week3_hw_test\week3_hw_test\week3_hw_test\obj\Debug\week3_hw_test.csproj.AssemblyReference.cache
+C:\Users\clyan\source\repos\ncue_1132\week3_hw_test\week3_hw_test\week3_hw_test\obj\Debug\week3_hw_test.Properties.Resources.resources
+C:\Users\clyan\source\repos\ncue_1132\week3_hw_test\week3_hw_test\week3_hw_test\obj\Debug\week3_hw_test.csproj.GenerateResource.cache
+C:\Users\clyan\source\repos\ncue_1132\week3_hw_test\week3_hw_test\week3_hw_test\obj\Debug\week3_hw_test.csproj.CoreCompileInputs.cache
+C:\Users\clyan\source\repos\ncue_1132\week3_hw_test\week3_hw_test\week3_hw_test\bin\Debug\week3_hw_test.exe.config
+C:\Users\clyan\source\repos\ncue_1132\week3_hw_test\week3_hw_test\week3_hw_test\bin\Debug\week3_hw_test.exe
+C:\Users\clyan\source\repos\ncue_1132\week3_hw_test\week3_hw_test\week3_hw_test\bin\Debug\week3_hw_test.pdb
+C:\Users\clyan\source\repos\ncue_1132\week3_hw_test\week3_hw_test\week3_hw_test\obj\Debug\week3_hw_test.Form1.resources
+C:\Users\clyan\source\repos\ncue_1132\week3_hw_test\week3_hw_test\week3_hw_test\obj\Debug\week3_hw_test.exe
+C:\Users\clyan\source\repos\ncue_1132\week3_hw_test\week3_hw_test\week3_hw_test\obj\Debug\week3_hw_test.pdb

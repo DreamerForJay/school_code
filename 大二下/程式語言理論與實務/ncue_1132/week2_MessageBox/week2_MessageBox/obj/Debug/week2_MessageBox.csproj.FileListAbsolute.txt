@@ -1,0 +1,10 @@
+C:\Users\clyan\source\repos\week2_MessageBox\week2_MessageBox\bin\Debug\week2_MessageBox.exe.config
+C:\Users\clyan\source\repos\week2_MessageBox\week2_MessageBox\bin\Debug\week2_MessageBox.exe
+C:\Users\clyan\source\repos\week2_MessageBox\week2_MessageBox\bin\Debug\week2_MessageBox.pdb
+C:\Users\clyan\source\repos\week2_MessageBox\week2_MessageBox\obj\Debug\week2_MessageBox.csproj.AssemblyReference.cache
+C:\Users\clyan\source\repos\week2_MessageBox\week2_MessageBox\obj\Debug\week2_MessageBox.Form1.resources
+C:\Users\clyan\source\repos\week2_MessageBox\week2_MessageBox\obj\Debug\week2_MessageBox.Properties.Resources.resources
+C:\Users\clyan\source\repos\week2_MessageBox\week2_MessageBox\obj\Debug\week2_MessageBox.csproj.GenerateResource.cache
+C:\Users\clyan\source\repos\week2_MessageBox\week2_MessageBox\obj\Debug\week2_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\clyan\source\repos\week2_MessageBox\week2_MessageBox\obj\Debug\week2_MessageBox.exe
+C:\Users\clyan\source\repos\week2_MessageBox\week2_MessageBox\obj\Debug\week2_MessageBox.pdb

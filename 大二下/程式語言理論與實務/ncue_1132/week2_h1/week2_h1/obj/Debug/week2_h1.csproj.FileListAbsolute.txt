@@ -1,0 +1,7 @@
+C:\Users\clyan\source\repos\ncue_1132\week2_h1\week2_h1\obj\Debug\week2_h1.csproj.AssemblyReference.cache
+C:\Users\clyan\source\repos\ncue_1132\week2_h1\week2_h1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\clyan\source\repos\ncue_1132\week2_h1\week2_h1\obj\Debug\week2_h1.Form2.resources
+C:\Users\clyan\source\repos\ncue_1132\week2_h1\week2_h1\obj\Debug\week2_h1.Form3.resources
+C:\Users\clyan\source\repos\ncue_1132\week2_h1\week2_h1\obj\Debug\week2_h1.Properties.Resources.resources
+C:\Users\clyan\source\repos\ncue_1132\week2_h1\week2_h1\obj\Debug\week2_h1.csproj.GenerateResource.cache
+C:\Users\clyan\source\repos\ncue_1132\week2_h1\week2_h1\obj\Debug\week2_h1.csproj.CoreCompileInputs.cache
