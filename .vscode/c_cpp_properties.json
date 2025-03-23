@@ -2,11 +2,11 @@
     "configurations": [
         {
             "name": "Win32",
-            "compilerPath": "C:/mingw64/bin/g++.exe",
+            "compilerPath": "C:/mingw/bin/g++.exe",
             "intelliSenseMode": "windows-gcc-x64",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/mingw64/include"
+                "C:/mingw/include"
             ],
             "cppStandard": "c++17",
             "cStandard": "c11"
